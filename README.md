@@ -2,6 +2,10 @@
 
 The Application that solves quadratic equations of the form:
 
+```sh
+ax² + bx + c = 0
+```
+
 It supports both interactive (console input) and non-interactive (file input) modes.
 
 ## Installation and Running
